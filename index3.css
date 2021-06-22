@@ -1,0 +1,6 @@
+section ul{
+    /* 3 ways: The first way is using em */
+    /* The second way is using % (90%)*/
+    /* The final way is using font-size: smaller */
+    font-size: 90%;
+}

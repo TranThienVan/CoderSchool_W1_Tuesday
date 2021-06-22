@@ -1,0 +1,14 @@
+* {
+    /* border-box and content-box for the property box-sizing  */
+    box-sizing: border-box;
+}
+
+.box{
+    border: 50px solid red;
+    padding: 50px;
+    width: 50%;
+}
+
+.content{
+    border-color: green;
+}

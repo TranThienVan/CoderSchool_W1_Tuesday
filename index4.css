@@ -1,0 +1,7 @@
+/* Using vw in order to create a square with the size related to the size of the screen */
+
+div {
+    background-color: rgb(0, 119, 255);
+    width: 20vw;
+    height: 20vw;
+}
